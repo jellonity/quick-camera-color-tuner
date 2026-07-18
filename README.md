@@ -1,6 +1,6 @@
 # Quick Camera Color Tuner (QCCT)
+<img width="1280" height="720" alt="app-qcct-cover" src="https://github.com/user-attachments/assets/a715b973-3617-47a3-a7a6-3fcd7e518e35" />
 
-<img width="1280" height="720" alt="app-qcct-cover" src="https://github.com/user-attachments/assets/c482fca3-f7f2-4d5f-8536-f974febdb3b2" />
 
 **Fast multi-camera color matching for Wirecast.**
 Pick one camera as a reference, match the others to it, and export the result as a 33-point LUT (`*.cube`) that Wirecast loads instantly.
